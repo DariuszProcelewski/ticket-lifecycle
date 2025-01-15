@@ -48,14 +48,26 @@ Creating and Managing a Ticket (End-User and Agent Workflow)
 - Assigned To
   
   ![Screenshot 2025-01-15 161522](https://github.com/user-attachments/assets/e6020249-04d3-4788-ab9f-b3733976b71e)
-![image](https://github.com/user-attachments/assets/5fd4801f-68ff-47cb-b3e0-57d9b2a1623d)
-
-
+![Screenshot 2025-01-15 163320](https://github.com/user-attachments/assets/da9d06a8-6cec-4edd-b2d8-96b8fc367b29)
 
 3) Set Properties to the ticket
 
 - Sev-A (1 hour, 24/7)
+  
+  ![Screenshot 2025-01-15 163857](https://github.com/user-attachments/assets/404b7c89-83ff-47e8-9d36-8019cb8df761)
 
-- Online Banking Department
+- Correct "Help Topic" as issue have wide impact on bussines
+  
+![Screenshot 2025-01-15 164317](https://github.com/user-attachments/assets/f27c00f2-7aa7-455d-bdb1-6632bb112f27)
 
+- Assign to Online Banking Department
+  
+![image](https://github.com/user-attachments/assets/1d6b0820-659c-4714-8cdf-f9bc0e4980b2)
+
+Work the ticket to completion as jane
+
+![Screenshot 2025-01-15 165344](https://github.com/user-attachments/assets/7f03ab3c-df0e-4083-925f-a516d34fb7cf)
+![Screenshot 2025-01-15 165641](https://github.com/user-attachments/assets/d9d32fd5-0a46-458e-8054-e26a14787f74)
+![image](https://github.com/user-attachments/assets/625ad47c-5a20-4314-a93a-743b75335e77)
+![Screenshot 2025-01-15 170144](https://github.com/user-attachments/assets/1870c5cf-840f-4f08-b36d-be8cafeef362)
 
