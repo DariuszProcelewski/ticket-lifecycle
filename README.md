@@ -71,3 +71,6 @@ Work the ticket to completion as jane
 ![image](https://github.com/user-attachments/assets/625ad47c-5a20-4314-a93a-743b75335e77)
 ![Screenshot 2025-01-15 170144](https://github.com/user-attachments/assets/1870c5cf-840f-4f08-b36d-be8cafeef362)
 
+Effective communication is key when resolving tickets. It’s essential to maintain clear communication with both your team and the affected users. Tickets vary in nature, are assigned to different team members, and require proper management. For instance, John handled a ticket assigned by Jane, while Jane independently managed another ticket. Proper documentation is vital for maintaining an efficient workflow, as it allows tickets to serve as references for similar issues in the future.
+
+Ticket management protocols can vary based on the work environment. Some workplaces may set quotas for the number of tickets to be resolved within a specific timeframe, while others prioritize tickets based on urgency and impact. Through building osTicket from the ground up, I gained valuable insight into how ticketing systems function in an IT role and how they support issue resolution.
